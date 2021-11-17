@@ -139,16 +139,16 @@ background: rgb(207, 209, 203);
   cursor: pointer;
 }
 
-.options svg:hover:nth-child(1){
+.options div:hover:nth-child(1) svg{
   fill: rgb(70, 207, 77);
 }
 
-.options svg:hover:nth-child(2){
-  fill: rgb(134, 82, 132);
+.options div:hover:nth-child(2) svg{
+  fill: rgb(134, 82, 132) ;
 }
 
-.options svg:hover:nth-child(3){
-  fill: rgb(230, 117, 117);
+.options div:hover:nth-child(3) svg{
+  fill: rgb(247, 109, 109);
 }
 
 .form_edit{
